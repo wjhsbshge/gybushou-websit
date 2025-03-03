@@ -1,80 +1,80 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bushou 摄影工作室</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
+<html 朗==="zh-CN">>>
+<头>
+    <元字符码​​​==="UTF-8">>>>>
+    <​元姓名“视口”内容设备宽度，初始尺度1.0”>
+    <>标题不受摄影工作室标题>
+    <风格>
+身体 {
+            字体系列：字体，无衬线；
+            利润: ;0
+            填料: ;0
+背景颜色:#f4f4f4；
+            顏色: #333;
         }
-        header {
-            background-color: #333;
-            color: #fff;
-            padding: 10px 0;
-            text-align: center;
+标题{
+            背景色: #333;
+            顏色：#
+            填料： 10 像素 0;
+            文本对齐: 中心;
         }
-        nav {
-            margin: 20px 0;
-            text-align: center;
+nav{
+            利润: 20px 0;
+            文本对齐: 中心;
         }
-        nav a {
-            margin: 0 15px;
-            text-decoration: none;
-            color: #333;
+沒有a{
+            利润: 0 15px;
+            文字装饰: 没有人;
+顏色:#333；
         }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+.container {
+宽度：80%;
+保证金:0 自动；
+内边距：20px;
+背景颜色:#fff；
+框影：0，0，0，0，0.1个像素
         }
-        footer {
-            text-align: center;
-            padding: 20px 0;
-            background-color: #333;
-            color: #fff;
-            margin-top: 20px;
+页脚{
+文本对齐:中心；
+填充：20px 0;
+背景颜色:#333；
+颜色：#
+边距顶部：20px;
         }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Bushou 摄影工作室</h1>
-    </header>
+    风格>
+头>
+<身体>
+    <頁眉>
+        <>h1摄影工作室h1>
+标题>
     <nav>
-        <a href="#home">首页</a>
-        <a href="#portfolio">作品集</a>
-        <a href="#about">关于我们</a>
-        <a href="#contact">联系我们</a>
-    </nav>
-    <div class="container">
-        <section id="home">
-            <h2>欢迎来到 Bushou 摄影工作室</h2>
-            <p>我们专注于人像、风景、商业摄影，用镜头记录每一个美好瞬间。</p>
-        </section>
-        <section id="portfolio">
-            <h2>作品集</h2>
-            <p>这里展示我们的精选作品。</p>
-        </section>
-        <section id="about">
-            <h2>关于我们</h2>
-            <p>Bushou 摄影工作室成立于2020年，拥有一支专业的摄影团队。</p>
-        </section>
-        <section id="contact">
-            <h2>联系我们</h2>
-            <p>地址：福建省泉州市石狮市XX路XX号</p>
-            <p>电话：18959901818</p>
-            <p>邮箱：ddmm88999951@qq.com</p>
-        </section>
-    </div>
-    <footer>
-        <p>&copy; 2025.3.2 Bushou 摄影工作室. 保留所有权利.</p>
-    </footer>
-</body>
-</html>
+        <一种href网站首页
+        <href一種
+        ​ <a“#關於”>​关于我们一种>
+        <​一种“#接触”>联系我们一种>
+沒有
+    <div 类"容器">
+        <部门编号"主页">
+            <>h2欢迎来到捕手摄影工作室h2>
+            <>p我们专注于人像、风景、商业摄影，用镜头记录每一个美好瞬间。p>
+部分>
+        <部门编号"作品集">
+            <>h2作品集h2>
+            <>p这里展示我们的精选作品。p>
+部分>
+        <部门编号"关于"
+            <>h2关于我们h2>
+            <>p布寿摄影工作室成立于2025年，拥有一支专业的摄影团队。p>
+部分>
+        <部门编号"联系方式">
+            <>h2联系我们h2>
+            <>p地址：福建省泉州市石狮市鹏山工贸光影捕手工作室p>
+            <>p电话：189****18><>p电话：189****18>
+            <​<邮箱：ddmm88999951@qq.com>
+部分>
+div>
+    <页脚>
+        <​&copy;>2025.3.2不受摄影工作室.保留所有权利.p>
+    页脚>
+身体>
+HTML格式>
